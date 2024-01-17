@@ -1,23 +1,22 @@
 # LCKChat
+리그오브레전드 LCK 이스포츠를 좀 더 재밌게 즐길 수 있도록 경기와 관련된 다양한 정보를 제공하기 위해 만들어진 모바일 애플리케이션입니다.
 
-A new Flutter project.
+## 개발 기간
+23.03.08 ~ 2023.06.26 (약 3개월)
 
-## Getting Started
+## System Diagram 📌
+![시스템 구성도](./assets/images/system_diagram.png)
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+## Development Environment 🛠
+Framework: Flutter 3.10.1<br>
+Language: Dart 3.0.1<br>
+Chatbot: Rasa 3.5.8, Python 3.9.2 (https://github.com/yeseong9769/rasa_lck)
 
-### Getting started continued:
+## Functions 📱
+- 경기 일정 및 결과 제공
+- 경기 통계 제공
+- 순위 정보 제공
+- 챗봇 기능 제공
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# LCK_ChatBot
-# LCK_ChatBot
-# LCK_ChatBot
+## Publications 📚
+자연어 처리 기반 챗봇이 포함된 E-스포츠 애플리케이션 개발, 한국컴퓨터정보학회 학술발표논문집, 2023, pp. 501-502. [see here](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11528324)
